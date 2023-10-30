@@ -7,9 +7,9 @@ Config.Framework = 'qb' -- 'qb' only (soon 'esx')
 Config.Target = {
     [1] = {
         name = 'Pacific Bank', -- Name of the bank
-        coords = vec3(241.6, 226.2, 106.0),
+        coords = vec3(516.77, 47.87, 5.66),
         size = vec3(1, 1, 2),
-        rotation = 341.75,
+        rotation = 0.41,
     }
 }
 
